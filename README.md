@@ -1,5 +1,25 @@
 # static-site-generators
 
+Just a few notes on Statis Site Generators
+
+## 2019 update
+
+see <https://www.npmtrends.com/metalsmith-vs-gatsby-vs-nuxt-vs-next-vs-hexo-vs-vuepress>
+
+### Spike
+
+- <https://www.npmjs.com/package/spike>
+- <https://github.com/static-dev/spike>
+
+Note: This project is currently unmaintained. If you are interested in taking over maintenance, please reach out!
+
+### Gatsby.js
+
+TODO:
+
+
+# 2016
+
 Goal is to create more detailed comparison of static-site generators from
 
 - content
@@ -19,10 +39,3 @@ Links:
 - <https://staticsitegenerators.net/>
 - <https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/>
 - ...
-
-
-
-
-
-
-
